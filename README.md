@@ -1,6 +1,6 @@
 # Hiphopology (React Native)
 
-Expo + TypeScript + Expo Router rewrite of the original PHP/MySQL Hiphopology site. Lyrical statistics for 50 hip-hop
+I originally built this project in PHP 7-8 years ago. This is an Expo + TypeScript + Expo Router rewrite of the original PHP/MySQL Hiphopology site. Lyrical statistics for 50 hip-hop
 artists, bundled offline — no backend, no lyrics shipped.
 
 ## Run
