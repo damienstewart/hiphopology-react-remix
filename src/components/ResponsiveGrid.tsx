@@ -17,5 +17,5 @@ export function Col({ wide, span = 1, children }: { wide: boolean; span?: number
 
 const styles = StyleSheet.create({
   row: { flexDirection: 'row', gap: GAP, marginBottom: GAP, alignItems: 'stretch' },
-  stack: { maxWidth: 800, width: '100%', alignSelf: 'center' },
+  stack: { maxWidth: 800, width: '100%', alignSelf: 'center', gap: GAP, marginBottom: GAP },
 });
