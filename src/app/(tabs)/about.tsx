@@ -25,7 +25,7 @@ export default function AboutScreen() {
         </Text>
         <Text style={styles.p}>
           This project was built in 2019 and does not serve as an up to date reference for the current state of the
-          represented artists hip-hop discographies.
+          represented artists discographies.
         </Text>
         <Text style={styles.p}>
           Built by <ExternalLink href="https://www.instagram.com/gotoheck/">Damien Stewart</ExternalLink>
